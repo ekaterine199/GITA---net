@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jo6DkMbqlqA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eku\\Desktop\\AutofacDemo\\AutofacDemo\\AutofacDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eku\\.nuget\\packages\\autofac\\8.2.0\\autofac.8.2.0.nupkg.sha512",
+    "C:\\Users\\Eku\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

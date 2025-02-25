@@ -1,0 +1,17 @@
+C:\Users\Eku\Desktop\NinjectDemo\NinjectDemo\bin\Debug\net8.0\NinjectDemo.exe
+C:\Users\Eku\Desktop\NinjectDemo\NinjectDemo\bin\Debug\net8.0\NinjectDemo.deps.json
+C:\Users\Eku\Desktop\NinjectDemo\NinjectDemo\bin\Debug\net8.0\NinjectDemo.runtimeconfig.json
+C:\Users\Eku\Desktop\NinjectDemo\NinjectDemo\bin\Debug\net8.0\NinjectDemo.dll
+C:\Users\Eku\Desktop\NinjectDemo\NinjectDemo\bin\Debug\net8.0\NinjectDemo.pdb
+C:\Users\Eku\Desktop\NinjectDemo\NinjectDemo\bin\Debug\net8.0\Ninject.dll
+C:\Users\Eku\Desktop\NinjectDemo\NinjectDemo\obj\Debug\net8.0\NinjectDemo.csproj.AssemblyReference.cache
+C:\Users\Eku\Desktop\NinjectDemo\NinjectDemo\obj\Debug\net8.0\NinjectDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eku\Desktop\NinjectDemo\NinjectDemo\obj\Debug\net8.0\NinjectDemo.AssemblyInfoInputs.cache
+C:\Users\Eku\Desktop\NinjectDemo\NinjectDemo\obj\Debug\net8.0\NinjectDemo.AssemblyInfo.cs
+C:\Users\Eku\Desktop\NinjectDemo\NinjectDemo\obj\Debug\net8.0\NinjectDemo.csproj.CoreCompileInputs.cache
+C:\Users\Eku\Desktop\NinjectDemo\NinjectDemo\obj\Debug\net8.0\NinjectD.6252C2F1.Up2Date
+C:\Users\Eku\Desktop\NinjectDemo\NinjectDemo\obj\Debug\net8.0\NinjectDemo.dll
+C:\Users\Eku\Desktop\NinjectDemo\NinjectDemo\obj\Debug\net8.0\refint\NinjectDemo.dll
+C:\Users\Eku\Desktop\NinjectDemo\NinjectDemo\obj\Debug\net8.0\NinjectDemo.pdb
+C:\Users\Eku\Desktop\NinjectDemo\NinjectDemo\obj\Debug\net8.0\NinjectDemo.genruntimeconfig.cache
+C:\Users\Eku\Desktop\NinjectDemo\NinjectDemo\obj\Debug\net8.0\ref\NinjectDemo.dll

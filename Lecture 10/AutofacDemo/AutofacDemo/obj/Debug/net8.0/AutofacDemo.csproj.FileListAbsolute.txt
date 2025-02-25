@@ -1,0 +1,17 @@
+C:\Users\Eku\Desktop\AutofacDemo\AutofacDemo\bin\Debug\net8.0\AutofacDemo.exe
+C:\Users\Eku\Desktop\AutofacDemo\AutofacDemo\bin\Debug\net8.0\AutofacDemo.deps.json
+C:\Users\Eku\Desktop\AutofacDemo\AutofacDemo\bin\Debug\net8.0\AutofacDemo.runtimeconfig.json
+C:\Users\Eku\Desktop\AutofacDemo\AutofacDemo\bin\Debug\net8.0\AutofacDemo.dll
+C:\Users\Eku\Desktop\AutofacDemo\AutofacDemo\bin\Debug\net8.0\AutofacDemo.pdb
+C:\Users\Eku\Desktop\AutofacDemo\AutofacDemo\bin\Debug\net8.0\Autofac.dll
+C:\Users\Eku\Desktop\AutofacDemo\AutofacDemo\obj\Debug\net8.0\AutofacDemo.csproj.AssemblyReference.cache
+C:\Users\Eku\Desktop\AutofacDemo\AutofacDemo\obj\Debug\net8.0\AutofacDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eku\Desktop\AutofacDemo\AutofacDemo\obj\Debug\net8.0\AutofacDemo.AssemblyInfoInputs.cache
+C:\Users\Eku\Desktop\AutofacDemo\AutofacDemo\obj\Debug\net8.0\AutofacDemo.AssemblyInfo.cs
+C:\Users\Eku\Desktop\AutofacDemo\AutofacDemo\obj\Debug\net8.0\AutofacDemo.csproj.CoreCompileInputs.cache
+C:\Users\Eku\Desktop\AutofacDemo\AutofacDemo\obj\Debug\net8.0\AutofacD.42EF092C.Up2Date
+C:\Users\Eku\Desktop\AutofacDemo\AutofacDemo\obj\Debug\net8.0\AutofacDemo.dll
+C:\Users\Eku\Desktop\AutofacDemo\AutofacDemo\obj\Debug\net8.0\refint\AutofacDemo.dll
+C:\Users\Eku\Desktop\AutofacDemo\AutofacDemo\obj\Debug\net8.0\AutofacDemo.pdb
+C:\Users\Eku\Desktop\AutofacDemo\AutofacDemo\obj\Debug\net8.0\AutofacDemo.genruntimeconfig.cache
+C:\Users\Eku\Desktop\AutofacDemo\AutofacDemo\obj\Debug\net8.0\ref\AutofacDemo.dll
