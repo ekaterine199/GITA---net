@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|c:\\users\\eku\\downloads\\productmanagementmt20\\productmanagementmt20\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|solutionrelative:productmanagementmt20\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|c:\\users\\eku\\downloads\\productmanagementmt20\\productmanagementmt20\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|solutionrelative:productmanagementmt20\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|c:\\users\\eku\\downloads\\productmanagementmt20\\productmanagementmt20\\views\\auth\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|solutionrelative:productmanagementmt20\\views\\auth\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|c:\\users\\eku\\downloads\\productmanagementmt20\\productmanagementmt20\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|solutionrelative:productmanagementmt20\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|c:\\users\\eku\\downloads\\productmanagementmt20\\productmanagementmt20\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|solutionrelative:productmanagementmt20\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|c:\\users\\eku\\downloads\\productmanagementmt20\\productmanagementmt20\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|solutionrelative:productmanagementmt20\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|c:\\users\\eku\\downloads\\productmanagementmt20\\productmanagementmt20\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|solutionrelative:productmanagementmt20\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|c:\\users\\eku\\downloads\\productmanagementmt20\\productmanagementmt20\\models\\vm\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|solutionrelative:productmanagementmt20\\models\\vm\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|c:\\users\\eku\\downloads\\productmanagementmt20\\productmanagementmt20\\models\\vm\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|solutionrelative:productmanagementmt20\\models\\vm\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|c:\\users\\eku\\downloads\\productmanagementmt20\\productmanagementmt20\\models\\vm\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|solutionrelative:productmanagementmt20\\models\\vm\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|c:\\users\\eku\\downloads\\productmanagementmt20\\productmanagementmt20\\models\\vm\\confirmedviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|solutionrelative:productmanagementmt20\\models\\vm\\confirmedviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|c:\\users\\eku\\downloads\\productmanagementmt20\\productmanagementmt20\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|solutionrelative:productmanagementmt20\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|c:\\users\\eku\\downloads\\productmanagementmt20\\productmanagementmt20\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|solutionrelative:productmanagementmt20\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|c:\\users\\eku\\downloads\\productmanagementmt20\\productmanagementmt20\\models\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|solutionrelative:productmanagementmt20\\models\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|c:\\users\\eku\\downloads\\productmanagementmt20\\productmanagementmt20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|solutionrelative:productmanagementmt20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_90UVDPC/ProductManagementMT20Lecture/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|c:\\users\\eku\\downloads\\productmanagementmt20\\productmanagementmt20\\migrations\\20250212072644_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|solutionrelative:productmanagementmt20\\migrations\\20250212072644_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|c:\\users\\eku\\downloads\\productmanagementmt20\\productmanagementmt20\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0617EAE4-8A92-42D4-A150-24C71BF59E79}|ProductManagementMT20\\ProductManagementMT20.csproj|solutionrelative:productmanagementmt20\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "ProductManagementMT20\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Services\\OrderService.cs",
+              "RelativeToolTip": "ProductManagementMT20\\Services\\OrderService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:32:57.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ProductManagementMT20\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ProductManagementMT20\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:32:51.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProductManagementMT20\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProductManagementMT20\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:32:45.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Views\\Auth\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementMT20\\Views\\Auth\\ConfirmEmail.cshtml",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Views\\Auth\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "ProductManagementMT20\\Views\\Auth\\ConfirmEmail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T20:21:00.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementMT20\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "ProductManagementMT20\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T05:50:59.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementMT20\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "ProductManagementMT20\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T05:55:33.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ProductManagementMT20\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ProductManagementMT20\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAJoAAABAmZmZmZkhwKUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:28:05.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Models\\VM\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "ProductManagementMT20\\Models\\VM\\OrderViewModel.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Models\\VM\\OrderViewModel.cs",
+              "RelativeToolTip": "ProductManagementMT20\\Models\\VM\\OrderViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:32:36.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Models\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ProductManagementMT20\\Models\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Models\\Entities\\Product.cs",
+              "RelativeToolTip": "ProductManagementMT20\\Models\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:32:22.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Models\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "ProductManagementMT20\\Models\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Models\\Entities\\Order.cs",
+              "RelativeToolTip": "ProductManagementMT20\\Models\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:32:16.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConfirmedViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Models\\VM\\ConfirmedViewModel.cs",
+              "RelativeDocumentMoniker": "ProductManagementMT20\\Models\\VM\\ConfirmedViewModel.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Models\\VM\\ConfirmedViewModel.cs",
+              "RelativeToolTip": "ProductManagementMT20\\Models\\VM\\ConfirmedViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:18:04.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Models\\VM\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ProductManagementMT20\\Models\\VM\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Models\\VM\\LoginViewModel.cs",
+              "RelativeToolTip": "ProductManagementMT20\\Models\\VM\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:50:33.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Models\\VM\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ProductManagementMT20\\Models\\VM\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Models\\VM\\RegisterViewModel.cs",
+              "RelativeToolTip": "ProductManagementMT20\\Models\\VM\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:55:59.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Models\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ProductManagementMT20\\Models\\Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Models\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "ProductManagementMT20\\Models\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:50:23.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "dbo.AspNetUsers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_90UVDPC/ProductManagementMT20Lecture/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_90UVDPC/ProductManagementMT20Lecture/True/SqlTable/dbo.AspNetUsers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-14T05:53:51.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Program.cs",
+              "RelativeDocumentMoniker": "ProductManagementMT20\\Program.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Program.cs",
+              "RelativeToolTip": "ProductManagementMT20\\Program.cs",
+              "ViewState": "AgIAABUAAACAmZmZmZklwCEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:56:33.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250212072644_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Migrations\\20250212072644_initial.cs",
+              "RelativeDocumentMoniker": "ProductManagementMT20\\Migrations\\20250212072644_initial.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\Migrations\\20250212072644_initial.cs",
+              "RelativeToolTip": "ProductManagementMT20\\Migrations\\20250212072644_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:26:45.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductManagementMT20\\appsettings.json",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\ProductManagementMT20\\ProductManagementMT20\\appsettings.json",
+              "RelativeToolTip": "ProductManagementMT20\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-12T07:25:56.844Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

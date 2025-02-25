@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ProductManagementMT20.props" />
+</Project>
