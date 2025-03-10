@@ -1,0 +1,582 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_90UVDPC/RegisterLoginJWT/True/SqlTable/dbo.RoleUser.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_90UVDPC/RegisterLoginJWT/True/SqlTable/dbo.Roles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_90UVDPC/RegisterLoginJWT/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\models\\dtos\\role\\rolecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\models\\dtos\\role\\rolecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\models\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\models\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\models\\dtos\\role\\roleupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\models\\dtos\\role\\roleupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\models\\dtos\\user\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\models\\dtos\\user\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\models\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\models\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\models\\dtos\\role\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\models\\dtos\\role\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\models\\dtos\\user\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\models\\dtos\\user\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\interfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\interfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\migrations\\20250309194154_addrolestodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\migrations\\20250309194154_addrolestodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\models\\dtos\\auth\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\models\\dtos\\auth\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\models\\dtos\\auth\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\models\\dtos\\auth\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\models\\dtos\\auth\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\models\\dtos\\auth\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\migrations\\20250303075916_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\migrations\\20250303075916_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\models\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\models\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\migrations\\20250303091000_finishrename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\migrations\\20250303091000_finishrename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\migrations\\20250303090722_renameuserid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\migrations\\20250303090722_renameuserid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|c:\\users\\eku\\downloads\\registerloginjwt\\registerloginjwt\\migrations\\20250303163524_addrefreshtokentouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6F5968-D72F-4081-8ACC-2BA2D9A58DC1}|RegisterLoginJWT\\RegisterLoginJWT.csproj|solutionrelative:registerloginjwt\\migrations\\20250303163524_addrefreshtokentouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.RoleUser [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_90UVDPC/RegisterLoginJWT/True/SqlTable/dbo.RoleUser.sql",
+              "ToolTip": "dbo.RoleUser [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-10T10:10:39.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Controllers\\UserController.cs",
+              "RelativeToolTip": "RegisterLoginJWT\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:38:53.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "RegisterLoginJWT\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwB8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:39:48.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Services\\AuthService.cs*",
+              "RelativeToolTip": "RegisterLoginJWT\\Services\\AuthService.cs*",
+              "ViewState": "AgIAADsAAACAMzMzMzMvwE8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:39:14.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.Roles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_90UVDPC/RegisterLoginJWT/True/SqlTable/dbo.Roles.sql",
+              "ToolTip": "dbo.Roles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-10T10:11:31.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_90UVDPC/RegisterLoginJWT/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-10T10:11:56.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Services\\UserService.cs",
+              "RelativeToolTip": "RegisterLoginJWT\\Services\\UserService.cs",
+              "ViewState": "AgIAALQAAAAAzczMzMwowMcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:39:54.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\Services\\RoleService.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Services\\RoleService.cs",
+              "RelativeToolTip": "RegisterLoginJWT\\Services\\RoleService.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAmwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T12:35:53.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\Models\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "RegisterLoginJWT\\Models\\Entities\\User.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T20:18:52.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Program.cs",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\Program.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Program.cs",
+              "RelativeToolTip": "RegisterLoginJWT\\Program.cs",
+              "ViewState": "AgIAACkAAAAAZWZmZmYGwDkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:59:49.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Models\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\Models\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Models\\Entities\\Role.cs",
+              "RelativeToolTip": "RegisterLoginJWT\\Models\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T12:44:30.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoleCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Models\\DTOs\\Role\\RoleCreateDTO.cs",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\Models\\DTOs\\Role\\RoleCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Models\\DTOs\\Role\\RoleCreateDTO.cs",
+              "RelativeToolTip": "RegisterLoginJWT\\Models\\DTOs\\Role\\RoleCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T12:43:53.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "RegisterLoginJWT\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T12:35:38.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoleUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Models\\DTOs\\Role\\RoleUpdateDTO.cs",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\Models\\DTOs\\Role\\RoleUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Models\\DTOs\\Role\\RoleUpdateDTO.cs",
+              "RelativeToolTip": "RegisterLoginJWT\\Models\\DTOs\\Role\\RoleUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T12:44:04.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Models\\DTOs\\User\\UserDTO.cs",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\Models\\DTOs\\User\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Models\\DTOs\\User\\UserDTO.cs",
+              "RelativeToolTip": "RegisterLoginJWT\\Models\\DTOs\\User\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:42:13.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Models\\DTOs\\Role\\RoleDTO.cs",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\Models\\DTOs\\Role\\RoleDTO.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Models\\DTOs\\Role\\RoleDTO.cs",
+              "RelativeToolTip": "RegisterLoginJWT\\Models\\DTOs\\Role\\RoleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T12:43:43.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Models\\DTOs\\User\\UserUpdateDTO.cs",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\Models\\DTOs\\User\\UserUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Models\\DTOs\\User\\UserUpdateDTO.cs",
+              "RelativeToolTip": "RegisterLoginJWT\\Models\\DTOs\\User\\UserUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:42:42.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "RegisterLoginJWT\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:40:11.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Models\\DTOs\\User\\UserCreateDTO.cs",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\Models\\DTOs\\User\\UserCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Models\\DTOs\\User\\UserCreateDTO.cs",
+              "RelativeToolTip": "RegisterLoginJWT\\Models\\DTOs\\User\\UserCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:42:29.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Interfaces\\IRoleService.cs",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\Interfaces\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Interfaces\\IRoleService.cs",
+              "RelativeToolTip": "RegisterLoginJWT\\Interfaces\\IRoleService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T12:36:48.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "RegisterLoginJWT\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIAwwAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:37:56.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\MappingProfile.cs",
+              "RelativeToolTip": "RegisterLoginJWT\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T19:47:44.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250309194154_addRolestoDB.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Migrations\\20250309194154_addRolestoDB.cs",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\Migrations\\20250309194154_addRolestoDB.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Migrations\\20250309194154_addRolestoDB.cs",
+              "RelativeToolTip": "RegisterLoginJWT\\Migrations\\20250309194154_addRolestoDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T19:41:55.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ExtensionMethods.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\ExtensionMethods.cs",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\ExtensionMethods.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\ExtensionMethods.cs",
+              "RelativeToolTip": "RegisterLoginJWT\\ExtensionMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T21:01:09.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RegisterLoginJWT\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:37:20.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Models\\DTOs\\Auth\\UserLoginDTO.cs",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\Models\\DTOs\\Auth\\UserLoginDTO.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Models\\DTOs\\Auth\\UserLoginDTO.cs",
+              "RelativeToolTip": "RegisterLoginJWT\\Models\\DTOs\\Auth\\UserLoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T20:02:50.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\appsettings.json",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\appsettings.json",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\appsettings.json",
+              "RelativeToolTip": "RegisterLoginJWT\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-02T18:40:08.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20250303163524_AddRefreshTokenToUser.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Migrations\\20250303163524_AddRefreshTokenToUser.cs",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\Migrations\\20250303163524_AddRefreshTokenToUser.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Migrations\\20250303163524_AddRefreshTokenToUser.cs",
+              "RelativeToolTip": "RegisterLoginJWT\\Migrations\\20250303163524_AddRefreshTokenToUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:35:25.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TokenDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Models\\DTOs\\Auth\\TokenDTO.cs",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\Models\\DTOs\\Auth\\TokenDTO.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Models\\DTOs\\Auth\\TokenDTO.cs",
+              "RelativeToolTip": "RegisterLoginJWT\\Models\\DTOs\\Auth\\TokenDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:40:00.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ServiceResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Models\\ServiceResponse.cs",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\Models\\ServiceResponse.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Models\\ServiceResponse.cs",
+              "RelativeToolTip": "RegisterLoginJWT\\Models\\ServiceResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T20:08:54.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserRegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Models\\DTOs\\Auth\\UserRegisterDTO.cs",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\Models\\DTOs\\Auth\\UserRegisterDTO.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Models\\DTOs\\Auth\\UserRegisterDTO.cs",
+              "RelativeToolTip": "RegisterLoginJWT\\Models\\DTOs\\Auth\\UserRegisterDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvw4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T20:03:05.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250303091000_finishRename.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Migrations\\20250303091000_finishRename.cs",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\Migrations\\20250303091000_finishRename.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Migrations\\20250303091000_finishRename.cs",
+              "RelativeToolTip": "RegisterLoginJWT\\Migrations\\20250303091000_finishRename.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:10:00.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250303090722_renameUserId.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Migrations\\20250303090722_renameUserId.cs",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\Migrations\\20250303090722_renameUserId.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Migrations\\20250303090722_renameUserId.cs",
+              "RelativeToolTip": "RegisterLoginJWT\\Migrations\\20250303090722_renameUserId.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:07:23.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250303075916_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Migrations\\20250303075916_Initial.cs",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\Migrations\\20250303075916_Initial.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Migrations\\20250303075916_Initial.cs",
+              "RelativeToolTip": "RegisterLoginJWT\\Migrations\\20250303075916_Initial.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:59:17.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BaseClass.cs",
+              "DocumentMoniker": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Models\\BaseClass.cs",
+              "RelativeDocumentMoniker": "RegisterLoginJWT\\Models\\BaseClass.cs",
+              "ToolTip": "C:\\Users\\Eku\\Downloads\\RegisterLoginJWT\\RegisterLoginJWT\\Models\\BaseClass.cs",
+              "RelativeToolTip": "RegisterLoginJWT\\Models\\BaseClass.cs",
+              "ViewState": "AgIAAAYAAAAwMzMzMzM0wAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:47:11.337Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
