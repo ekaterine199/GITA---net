@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RegisterLoginJWTMTO20.props" />
+</Project>
